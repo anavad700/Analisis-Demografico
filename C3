@@ -1,0 +1,13 @@
+precio=int (input("precio del producto:"))
+
+if precio<= 500:
+    print ("caro")
+elif precio < 0:
+    print ("precio incorrecto")
+
+else:
+    print ("imposible")
+    
+    
+    
+    
